@@ -1,0 +1,38 @@
+/* index.css */
+.box {
+    background-color: #f8f9fa;
+    border: 2px solid #dee2e6;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.card-image-bottom {
+    /* width: 50%; */
+}
+
+.card {
+    border: 2px solid brown;
+}
+
+#train {
+    text-align:center;
+}
+
+.tv {
+    border: 5px solid orange;
+}
+
+.tv p {
+    color: rgb(188, 129, 19);
+    text-align: justify;   
+}
+
+#quotation {
+    border: 5px solid brown;
+}
+
+#quotation p {
+    text-align: center;
+}
